@@ -1,16 +1,29 @@
-## Hi there 👋
+# 💻 Programmer | Frontend Developer | Java & DSA Enthusiast
 
-<!--
-**jawad-js/jawad-js** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm a passionate **Programmer** with a focus on **Frontend Development** and strong skills in **Java** and **Data Structures & Algorithms**. I have been building responsive web interfaces and writing efficient code. Welcome to my digital playground!
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
+* **Programming Languages:** Java
+* **Data Structures & Algorithms:** LeetCode enthusiast, problem solver
+* **Tools:** Git, GitHub, VS Code
+
+## 🚀 Current Focus
+
+* Building interactive, responsive web applications
+* Enhancing problem-solving skills in DSA
+* Mastering full-stack development
+
+## 🌱 Learning Goals
+
+* Advanced Java concepts
+* Optimizing algorithms
+* Contributing to open-source projects
+
+## 📫 Let's Connect
+
+* [LinkedIn](https://linkedin.com/in/YourUsername)
+* [Twitter](https://twitter.com/YourUsername)
+
+Thanks for visiting my profile! Feel free to reach out if you want to collaborate or just chat about code. 😊
