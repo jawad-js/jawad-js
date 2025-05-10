@@ -23,7 +23,7 @@ Hello, I'm a passionate **Programmer** with a focus on **Frontend Development** 
 
 ## 📫 Let's Connect
 
-* [LinkedIn](https://linkedin.com/in/YourUsername)
-* [Twitter](https://twitter.com/YourUsername)
+* [LinkedIn]([https://linkedin.com/in/YourUsername](https://www.linkedin.com/in/jawad-shaikh-033870287/))
+* [Twitter]([https://twitter.com/YourUsername](https://x.com/8915_js))
 
 Thanks for visiting my profile! Feel free to reach out if you want to collaborate or just chat about code. 😊
