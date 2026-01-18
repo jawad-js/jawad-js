@@ -1,7 +1,9 @@
 # 💻 Programmer | Frontend Developer | Java & DSA Enthusiast
 
-HellO, I'm a **JAWAD** 👋 passionate **Programmer**
+Hello, I'm a **JAWAD** 👋 passionate **Programmer**
+
 A frontend developer focused on building clean, interactive, and browser-based applications using modern web technologies. I enjoy working close to the fundamentals, understanding how things work under the hood, and improving through hands-on projects. Currently strengthening my skills through real-world projects while growing toward full-stack development.
+
  Welcome to my digital playground! 🚀
 
 ---
