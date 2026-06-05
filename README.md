@@ -10,9 +10,9 @@ Welcome to my digital playground 🚀
 
 ## 🌐 Portfolio
 
-Explore my projects, skills, and development journey:
+Explore my projects, skills, and development 
 
-🔗 https://portfolio-jawads.vercel.app/
+https://jawadshaikh-portfolio.vercel.app/
 
 ---
 
