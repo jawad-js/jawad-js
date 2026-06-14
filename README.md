@@ -57,17 +57,11 @@ A movie discovery application that allows users to search for movies, explore de
 
 **Tech:** React, JavaScript, REST API
 
-### 💰 Expense Tracker *(In Progress)*
-
-Track income and expenses with persistent storage.
-
-**Tech:** React, JavaScript
-
-### 💼 HirFlow *(In Progress)*
+### 💼 JobHunt 
 
 A recruitment and job workflow application.
 
-**Tech:** React, Tailwind CSS
+**Tech:** React, Vanilla css
 
 ---
 
