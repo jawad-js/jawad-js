@@ -59,7 +59,7 @@ A movie discovery application that allows users to search for movies, explore de
 
 ### 💼 JobHunt 
 
-A recruitment and job workflow application.
+A professional, polished job application tracking system built with React. Manage your entire job search in one beautiful dashboard with authentication, real-time notifications, professional analytics, and more.
 
 **Tech:** React, Vanilla css
 
