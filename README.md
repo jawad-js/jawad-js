@@ -8,11 +8,13 @@ Welcome to my digital playground 🚀
 
 ---
 
-## 🌐 Portfolio
+## 🌐 Connect & Explore
 
-Explore my projects, skills, and development 
-
+Portfolio:
 https://jawadshaikh-portfolio.vercel.app/
+
+Twine Profile:
+https://jawadjs.twinesite.com/
 
 ---
 
