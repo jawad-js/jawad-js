@@ -1,89 +1,50 @@
 # Hi, I'm Jawad Shaikh 👋
 
-Frontend Developer passionate about building responsive and interactive web applications using React, JavaScript, and modern web technologies.
+Software Engineer focused on building modern, scalable web applications using the **MERN Stack**.
 
-Currently strengthening my problem-solving skills with Java and DSA while progressing toward Full-Stack Development with the MERN Stack.
-
-Welcome to my digital playground 🚀
+I enjoy turning ideas into real-world products while writing clean, maintainable code. Currently improving my backend development, Java, and Data Structures & Algorithms to become a well-rounded full-stack engineer.
 
 ---
 
-## 🌐 Connect & Explore
+## 🌐 Connect
 
-Portfolio:
-https://jawadshaikh-portfolio.vercel.app/
-
-Twine Profile:
-https://jawadjs.twinesite.com/
+- 🌍 Portfolio: https://jawadshaikh-portfolio.vercel.app/
+- 💼 Twine: https://jawadjs.twinesite.com/
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-### Frontend Development
+**Frontend:** HTML • CSS • JavaScript • React • Tailwind CSS
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Backend:** Node.js • Express.js • MongoDB • REST APIs
 
-### Programming & Problem Solving
+**Languages:** Java • JavaScript
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+**Tools:** Git • GitHub • VS Code • Postman
+## 🚀 Featured Projects
 
-### Development Tools
+### 💼 JobHunt
+A job application tracking platform with authentication and analytics.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### 🌱 Currently Exploring
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-## 📌 Featured Projects
-
-### 🎮 GTA VI Landing Page Clone
-
-Responsive landing page inspired by GTA VI.
-
-**Tech:** HTML, CSS, JavaScript
+**React • Node.js • Express.js • MongoDB • CSS**
 
 ### 🎬 Cinema Search
+Movie discovery app powered by a REST API.
 
-A movie discovery application that allows users to search for movies, explore details, and interact with real-time data from an external API.
+**React • JavaScript • REST API**
 
-**Tech:** React, JavaScript, REST API
+### 🚗 Porsche Landing Page
+A modern, fully responsive landing page inspired by Porsche, featuring smooth animations and a clean, mobile-first design.
 
-### 💼 JobHunt 
+**React • Tailwind CSS**
 
-A professional, polished job application tracking system built with React. Manage your entire job search in one beautiful dashboard with authentication, real-time notifications, professional analytics, and more.
+## 🎯 Currently
 
-**Tech:** React, Vanilla css
-
----
-
-## 🚀 Current Focus
-
-- Building and shipping real-world projects
-- Expanding from Frontend to Full-Stack Development
-- Strengthening problem-solving skills with Java
-- Learning backend fundamentals through practical projects
-- Writing cleaner, maintainable, and scalable code
-  
----
-
-## 🎯 2026 Goals
-
-- Complete the MERN Stack roadmap
-- Build 5 production-ready projects
-- Solve 300+ DSA problems
-- Contribute to Open Source
-- Land a Frontend or Full-Stack Developer role
+- Building production-ready MERN applications
+- Practicing Java & DSA
+- Learning scalable backend architecture
+- Open to Software Engineer, Frontend, and Full-Stack opportunities
 
 ---
 
