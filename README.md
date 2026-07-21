@@ -1,18 +1,13 @@
 # Hi, I'm Jawad Shaikh 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer;MERN+Stack+Developer;Building+Scalable+Web+Applications;Java+%7C+DSA+%7C+Backend+Development;Always+Learning+Something+New" alt="Typing SVG" />
+</p>
+
 Software Engineer passionate about building scalable, user-friendly web applications with the MERN stack. I enjoy transforming ideas into production-ready applications while continuously strengthening my backend development, Java, and data structures & algorithms skills.
 
-
 ---
 
-## 🌐 Connect
-
-
-- 🌍 Portfolio: https://jawadshaikh-portfolio.vercel.app
-- 💼 LinkedIn: https://linkedin.com/in/jawad-js
-- 💻 GitHub: https://github.com/jawad-js
-  
----
 
 ## 💻 Tech Stack
 <p align="left">
@@ -22,7 +17,7 @@ Software Engineer passionate about building scalable, user-friendly web applicat
 ## 🚀 Featured Projects
 
 ### 💼 [JobHunt](https://github.com/jawad-js/jobhunt)
-A job application tracking platform with authentication and analytics.
+A MERN-based job tracking platform that lets users manage applications, authenticate securely with JWT, and visualize application progress through analytics.
 
 **React • Node.js • Express.js • MongoDB • CSS**
 
@@ -53,11 +48,11 @@ Movie discovery app powered by the TMDB REST API with search, movie details, res
     height="180"
     src="https://github-readme-stats-iota-inky-74.vercel.app/api?username=jawad-js&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
   />
-  <img
+  <!-- <img
     height="180"
     alt="Top Languages"
     src="https://github-readme-stats-iota-inky-74.vercel.app/api/top-langs/?username=jawad-js&layout=compact&theme=tokyonight&hide_border=true"
-  />
+  /> -->
   <br><br>
   <img
     width="100%"
@@ -72,19 +67,21 @@ Movie discovery app powered by the TMDB REST API with search, movie details, res
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jawad-js/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <br><br>
+
+  <a href="https://github.com/jawad-js">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
   <a href="https://x.com/8915_js">
-    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
 </p>
 
----
+## 💡 My Philosophy
 
-## 💡 Philosophy
-
-> Consistency compounds. Small improvements every day lead to long-term growth.
+I believe great engineers aren't defined by how much they memorize, but by how they think. I strive to understand problems deeply, learn continuously, and build software that is simple, reliable, and meaningful.
 
 ---
 
