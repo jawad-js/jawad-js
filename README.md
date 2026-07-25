@@ -40,7 +40,7 @@ Movie discovery app powered by the TMDB REST API with search, movie details, res
 
 ---
 
-## 📊 Stats & Graph
+ <!-- ## 📊 Stats & Graph
 
 <p align="center">
   <img
@@ -48,11 +48,11 @@ Movie discovery app powered by the TMDB REST API with search, movie details, res
     height="180"
     src="https://github-readme-stats-iota-inky-74.vercel.app/api?username=jawad-js&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
   />
-  <!-- <img
+  <img
     height="180"
     alt="Top Languages"
     src="https://github-readme-stats-iota-inky-74.vercel.app/api/top-langs/?username=jawad-js&layout=compact&theme=tokyonight&hide_border=true"
-  /> -->
+  /> 
   <br><br>
   <img
     width="100%"
@@ -60,7 +60,7 @@ Movie discovery app powered by the TMDB REST API with search, movie details, res
     src="https://github-readme-activity-graph.vercel.app/graph?username=jawad-js&theme=tokyo-night" />
 </p>
 
-
+-->
 ---
 
 <h2 align="center">📫 Let's Connect</h2>
