@@ -38,7 +38,6 @@ Movie discovery app powered by the TMDB REST API with search, movie details, res
 - Learning scalable backend architecture
 - Open to Software Engineer, Frontend, and Full-Stack opportunities
 
----
 
  <!-- ## 📊 Stats & Graph
 
