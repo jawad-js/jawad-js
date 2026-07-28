@@ -64,19 +64,15 @@ Movie discovery app powered by the TMDB REST API with search, movie details, res
 
 <h2 align="center">📫 Let's Connect</h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jawad-js/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
 
-  <a href="https://github.com/jawad-js">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+<div align="center" >
 
-  <a href="https://x.com/8915_js">
-    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-</p>
+<a href="https://linkedin.com/in/jawad-js"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:8915.js@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://x.com/8915_js"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" width="48" height="48" alt="X" /></a>
+<a href="https://github.com/jawad-js"><img src="https://skillicons.dev/icons?i=github" /></a>
+
+</div>
 
 ## 💡 My Philosophy
 
